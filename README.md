@@ -16,14 +16,16 @@
 
 1.0.11版以上请搭配new.json配置使用：
 
-IOS影视点播源： new.json
+安卓影视点播源： https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/安卓new.json
 
-IOS听书听歌源：music.json
+IOS影视点播源：  https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/new.json
+
+IOS听书听歌源：  https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/music.json
 
 ##
 应大家要求，补充安卓端。（音频播放器不适配安卓端，音乐+听书默认使用：推荐播放器）
 
-安卓端视频源： 安卓new.json
+安卓端视频源： https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/安卓new.json
 
 ##
 配置中：
