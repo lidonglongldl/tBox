@@ -1,4 +1,4 @@
-## 建议将仓库转存到自己的github，不定期删除。 
+## 建议将仓库转存到自己的github，不定期删除。
 
 ## 温馨提示
 夸克网盘需最低88会员观看、UC网盘+天翼云盘无需会员。由于网盘自身限制，夸克+UC切换剧集时建议间隔最少10秒。（播放网盘资源时，建议设置中调整播放器缓存为128M）
@@ -15,8 +15,6 @@
 ### V1.0.11版更新：优化搜索、增加豆瓣、酷我音乐（请在设置中登录哔哩哔哩，VIP歌曲通过该站解析）
 
 1.0.11版以上请搭配new.json配置使用：
-
-安卓影视点播源： https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/安卓new.json
 
 IOS影视点播源：  https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/new.json
 
