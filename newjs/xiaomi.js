@@ -1,4 +1,4 @@
-const webSite='https://xiaomi.xxooo.cf';
+const webSite='https://wogg.xxooo.cf';
  
  function newfetch(url, options) {
      options = options || {};
