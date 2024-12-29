@@ -70,15 +70,15 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "xiaomi",
-		"name": "🍚小米┃UC盘",
+		"key": "mogg",
+		"name": "🍚木偶┃UC盘",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/newjs/wogg.js",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/lidonglongldl/tBox/refs/heads/main/newjs/mogg.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
